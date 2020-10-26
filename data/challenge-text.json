@@ -1,0 +1,19 @@
+{
+    "challenges": [
+        {
+            "name": "Degrees of Freedom & Nomenclature",
+            "goal": "This challenge is aimed at acquiring the ability to determine the degrees of freedom of planar rigid & spatial rigid bodies, closed-chain, and open-chain robots. The application of Grubler's formula for finding the degrees of freedom of a mechanism. It also requires familiarity with basic robotics nomenclature and domain specific vocabulary.",
+            "description": "Given the robots and mechanisms in the following scene, return the proper label or calculation for the given items in the functions provided below. Use the function that calculates Grubler's formula for the remaining calculations after you fill it in. The notes above should help you complete the challenge."
+        },
+        {
+            "name": "Topology",
+            "goal": "The challenge was designed to develop an understanding of configuration space topology. It requires the ability to discern between explicit and implicit parameterizations, answer questions about the task spaces and workspaces of different mechanisms and robots, and identify the topology of different systems.",
+            "description": "Given the robots and mechanisms in the following scene, return the proper label or calculation for the given items in the functions provided below. Where exponents are required, use a carrot (^). Topolgies should be given as their corresponding capital letter with the carrot and a number required in all cases (e.g. 1)"
+        },
+        {
+            "name": "Configuration & Velocity Constraints",
+            "goal": "The challenge was designed to develop an understanding of configuration and velocity constraints. It requires familiarity with the loop closure equations, holonomic, pfaffian, and non-holonomic constaints.",
+            "description": "Identify the relevant definitions and equations, returning the appropriate pairings in the functions below."
+        }
+    ]
+}
